@@ -1,0 +1,3 @@
+Model,Accuracy
+Naive Bayes,0.8844202450191808
+Logistic Regression,0.9078084395495607
